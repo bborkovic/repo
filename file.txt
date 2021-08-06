@@ -2,3 +2,4 @@ jedan
 dva
 tri
 cetiri
+pet
