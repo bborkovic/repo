@@ -3,3 +3,4 @@ dva
 tri
 cetiri
 pet
+sest
